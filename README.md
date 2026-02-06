@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kauã cardozo
+# 🧑🏼‍💻 Kauã cardozo
 
 **`Desenvolvedor FullStack`**
 
