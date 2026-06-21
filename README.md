@@ -1,10 +1,43 @@
-# 🧑🏼‍💻 Kauã cardozo
+# 👨‍💻 Kauã Cardozo
 
-**`Desenvolvedor Frontend`**
+**`🎓 Estudante de ADS | 💻 Desenvolvedor Frontend em Formação | 🚀 Futuro Full Stack`**
 
-Me chamo Kauã Cardozo, tenho 19 anos, natural de Belém do Pará e sou um admirador da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UNAMA, buscando constante evolução e aprimoramento na área de tecnologia da informação.
+Olá! Meu nome é Kauã Cardozo e sou estudante de Bacharelado em Análise e Desenvolvimento de Sistemas pela UNAMA.
 
-Concluí o ensino médio na Escola Estadual Honorato Filgueiras, onde desenvolvi interesse pela área tecnológica e pela resolução de problemas por meio da programação. Tenho foco em aprendizado contínuo, desenvolvimento de habilidades técnicas e crescimento profissional, sempre em busca de novas oportunidades e desafios no setor de tecnologia.
+Sou apaixonado por tecnologia e estou construindo minha trajetória na área de desenvolvimento de software. Atualmente, tenho maior interesse no desenvolvimento Frontend, criando interfaces modernas, responsivas e focadas na experiência do usuário.
+
+Estou constantemente estudando novas tecnologias e desenvolvendo projetos práticos para fortalecer minhas habilidades técnicas. Meu objetivo é evoluir profissionalmente e me tornar um Desenvolvedor Full Stack, contribuindo para projetos inovadores e adquirindo experiência no mercado de tecnologia.
+
+📍 Belém - PA, Brasil
+
+🎓 Bacharelado em Análise e Desenvolvimento de Sistemas - UNAMA
+
+💻 Foco atual: Frontend Development
+
+🚀 Objetivo profissional: Desenvolvedor Full Stack
+
+📚 Atualmente estudando: HTML, CSS, JavaScript, TypeScript, React, Next.js e Python
+
+<a href="https://github.com/Kauatandrade-sys?ab=followers">
+    <img
+        alt="Seguidores"
+        title="Me siga no GitHub"
+        src="https://custom-icon-badges.demolab.com/github/followers/Kauatandrade-sys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
+
+---
+
+## 🎯 Objetivos
+
+* 📚 Aprimorar minhas habilidades em desenvolvimento Frontend
+* 🚀 Evoluir para o desenvolvimento Full Stack
+* 💼 Conquistar minha primeira oportunidade na área de tecnologia
+* 🛠️ Construir projetos práticos e relevantes para meu portfólio
+* 🌱 Aprender continuamente novas tecnologias e boas práticas
+
+---
+
     </a>
 
   <a href="https://github.com/Kauatandrade-sys?ab=followers">
