@@ -18,14 +18,6 @@ Estou constantemente estudando novas tecnologias e desenvolvendo projetos práti
 
 📚 Atualmente estudando: HTML, CSS, JavaScript, TypeScript, React, Next.js e Python
 
-<a href="https://github.com/Kauatandrade-sys?ab=followers">
-    <img
-        alt="Seguidores"
-        title="Me siga no GitHub"
-        src="https://custom-icon-badges.demolab.com/github/followers/Kauatandrade-sys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-</a>
-
 ---
 
 ## 🎯 Objetivos
