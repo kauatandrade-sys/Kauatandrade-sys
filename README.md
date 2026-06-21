@@ -38,8 +38,6 @@ Estou constantemente estudando novas tecnologias e desenvolvendo projetos práti
 
 ---
 
-    </a>
-
   <a href="https://github.com/Kauatandrade-sys?ab=followers">
         <img 
             alt="Seguidores" 
