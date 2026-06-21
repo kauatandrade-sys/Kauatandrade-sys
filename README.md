@@ -1,6 +1,6 @@
 # 🧑🏼‍💻 Kauã cardozo
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Frontend`**
 
 Me chamo Kauã Cardozo, tenho 19 anos, natural de Belém do Pará e sou um admirador da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UNAMA, buscando constante evolução e aprimoramento na área de tecnologia da informação.
 
